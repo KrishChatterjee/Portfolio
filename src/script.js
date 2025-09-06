@@ -1,6 +1,6 @@
- const menuToggle = document.querySelector(".menu-toggle");
-  const navLinks = document.querySelector("nav ul");
+const menuToggle = document.getElementById("menu-toggle");
+const navLinks = document.getElementById("nav-links");
 
-  menuToggle.addEventListener("click", () => {
-    navLinks.classList.toggle("active");
-  });
+menuToggle.addEventListener("click", () => {
+  navLinks.classList.toggle("active");
+});
