@@ -39,6 +39,7 @@ Direct access to projects and resume.
 Professional yet minimalistic design for recruiters and hiring managers.
 
 📂 Repository Structure
+
 ├── index.html           # Main homepage
 
 ├── src                  # source files
